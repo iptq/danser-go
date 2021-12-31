@@ -7,6 +7,7 @@ settings.json
 settings-*
 danser.db
 danser
+danser-go
 danser*.exe
 danser*.zip
 danser.log
